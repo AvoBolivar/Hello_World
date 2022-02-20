@@ -1,2 +1,2 @@
 # Hello_World
-The tutorial lol
+The tutorial
